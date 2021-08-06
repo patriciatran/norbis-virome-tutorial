@@ -29,8 +29,36 @@ You can access it by
 
 [TBA]
 
-## Support Documentation
+## File descriptions & Flow of the tutorial
+
+For this tutorial, we will use a total of 3 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per grouup. Finally, we will regroup in the main virtual room to debrief. 
 
 ## Exercises and discussion questions
+*Commands*:
 
-## Additional resources
+### Discussion questions & things to keep in mind as you go through the 3 scenarios
+
+#### Scenario 1
+*About this dataset*:
+
+*Commands*:
+
+#### Scenario 2
+*About this dataset*:
+
+*Commands*:
+
+#### Scenario 3
+*About this dataset*:
+
+*Commands*:
+
+
+## Debriefin
+
+## Additional resources & Further Readings
+### Other tools in virome research
+
+### Examples of litterature citing VIBRANT
+
+### Applications of VIBRANT 
