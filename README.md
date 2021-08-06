@@ -19,8 +19,7 @@ After completion of this virome workshop day the participants will:
 ## Prerequisites
 A basic knowledge of the command line will be beneficials, and knowledge of commands such as `cd`, `ls`, `mkdir`, `mv`, `cp`, `head`, `tail`, as well as an understanding of file directory structure will be beneficial. 
 
-If you'd like to brush up on those skills, I recommand the following tutorials prior to the workshop:
-[list stuff here]
+If you'd like to brush up on those skills, I recommand this free tutorial from [DataCarpentry: Introduction to the Command line for Genomics](https://datacarpentry.org/shell-genomics/)
 
 ## Installation
 To follow along this tutorial, you will need to install [VIBRANT](https://github.com/AnantharamanLab/VIBRANT), which is freely available at the link here. Detailed instructions on installing VIBRANT are found on its own github page, posted [here](https://github.com/AnantharamanLab/VIBRANT#requirements-).
