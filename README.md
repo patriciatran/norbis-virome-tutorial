@@ -2,7 +2,9 @@
 
 **Contact**: Patricia Tran :school: University of Wisconsin-Madison :email: ptran5@wisc.edu
 
-Welcome to the tutorial page for the Viral omics bioinformatics session of the [NORBIS Summer School 2021](https://norbis.w.uib.no/activities/summerschool/)
+If you have questions about this tutorial please contact Patricia. If you have questions about the technicalities of VIBRANT, bugs, suggestions for the program itself, etc. please contact Kris Kieft (kieft@wisc.edu) 
+
+:star: **Welcome to the tutorial page for the Viral omics bioinformatics session of the [NORBIS Summer School 2021](https://norbis.w.uib.no/activities/summerschool/)!** :star:
 
 ## Learning Outcomes:
 After completion of the NORBIS summer school, the participants will:
