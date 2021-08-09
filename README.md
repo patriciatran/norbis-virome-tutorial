@@ -43,23 +43,34 @@ For this tutorial, we will use a total of 3 scenarios. First, I will walk you th
 ## Option 1: Running VIBRANT from command-line.
 ### Exercises and discussion questions
 *Commands*:
-
+```for file in /slowdata/Reads/LakeMendota2020/Viral-metagenomes/*; do /slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i $file -t 10 -folder ${file%.*}_vibrant_folder; done
+```
 ### Discussion questions & things to keep in mind as you go through the 3 scenarios
 
 #### Scenario 1
 *About this dataset*:
 
 *Commands*:
+```
+/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario1.fasta -t 2 -folder scenario1_vibrant_folder
+```
 
 #### Scenario 2
 *About this dataset*:
 
 *Commands*:
+```
+/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario2.fasta -t 2 -folder scenario2_vibrant_folder
+```
 
 #### Scenario 3
 *About this dataset*:
 
 *Commands*:
+```
+/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario3.fasta -t 2 -folder scenario3_vibrant_folder
+```
+
 
 ## Option 2: Running VIBRANT on Cyverse
 If for whatever reason you prefer to run the analysis using the cloud, Cyverse is a good option. The most updated version is 1.2.0, which is compared to the newest version 1.2.1. You can read about the difference between the two versions [here](https://github.com/AnantharamanLab/VIBRANT#updates-for-v121-mar-13-2020-). 
