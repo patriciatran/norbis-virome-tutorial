@@ -92,7 +92,13 @@ If for whatever reason you prefer to run the analysis using the cloud, Cyverse i
 
 ## Additional resources & Further Readings
 ### Other tools in virome research
+CheckV: [Paper](https://www.nature.com/articles/s41587-020-00774-7) and [Tool](https://bitbucket.org/berkeleylab/CheckV)
+VirSorter: [Paper](https://peerj.com/articles/985/) and [Tool](https://github.com/simroux/VirSorter)
 
 ### Examples of litterature citing VIBRANT
+https://www.sciencedirect.com/science/article/pii/S193131282030456X
+https://www.nature.com/articles/s41467-021-23698-5
+https://www.sciencedirect.com/science/article/pii/S1931312821001487
+
 
 ### Applications of VIBRANT 
