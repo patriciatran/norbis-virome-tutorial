@@ -40,7 +40,27 @@ You can access it by
 
 For this tutorial, we will use a total of 3 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per grouup. Finally, we will regroup in the main virtual room to debrief. 
 
-In the folder `Datasets` of this github page, you will find 5 fasta files with the file extension `.fasta.`, `.faa`, `fna`. the README.txt file in the `datasets` folder describes what these datasets are. We will split the class into groups, and each group will run VIBRANT on one file. Then we will discuss and compare how these datasets differ. For the live-demonstration, I will show you how to run it on `Lactococcus_lactis.fasta` but please change the `input file` name for the file that you are assigned, as you follow along.
+
+
+### File descriptions in the `Datasets` Folder:
+
+In the folder `Datasets` of this github page, you will find 5 fasta files with the file extension `.fasta.`, `.faa`, `fna`. the README.txt file in the `datasets` folder describes what these datasets are. 
+
+:dna: Lactococcus lactis: Complete bacterial genome with 5 prophages
+
+:dna: LBVG: Lake Biwa Viral Genomes, curated viruses from a metagenome
+
+:dna: Microviridae: Example of running proteins, single genome
+
+:dna: mixed_example: Some short scaffolds, some non-viruses, some viruses
+
+:dna: Podoviridae: Example of running nucleotides, single genome, encodes an AMG
+
+As you can see, each of these 5 examples constitute a slightly different situation where VIBRANT can be used. 
+
+For the live-demonstration, I will show you how to run it on `Lactococcus_lactis.fasta` but please change the `input file` name for the file that you are assigned, as you follow along. We will beginby splitting the group, and each group will be assigned one of these 4 files. Each person in each group can follow along and run VIBRANT on their respective sequence. 
+
+Later in the defriefing section, each group will go through their output files and discuss them with one of the instructors . Then we will regroup and share our points as a class and answer any additional questions you may have.
 
 ## Option 1: Running VIBRANT from command-line.
 ### Exercises and discussion questions
@@ -55,8 +75,11 @@ For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome o
 ```
 
 where:
+
 `-i` is the input file, a nucleotide or amino acid file in `fasta` format
+
 `-t` is the number of threads, this you can edit depending on your machine
+
 `-folder` is the name of the output folder where you want your results to be created.
 
 To view more options that `VIBRANT` has, type `VIBRANT_run.py -h`.
