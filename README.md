@@ -63,11 +63,8 @@ For the live-demonstration, I will show you how to run it on `Lactococcus_lactis
 Later in the defriefing section, each group will go through their output files and discuss them with one of the instructors . Then we will regroup and share our points as a class and answer any additional questions you may have.
 
 ## Option 1: Running VIBRANT from command-line.
-### Exercises and discussion questions
 
-### Discussion questions & things to keep in mind as you go through the 3 scenarios
-
-#### Live demonstration
+### Live demonstration (30 minutes)
 For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome. The genome has XX mbp and contains XX contigs.
 
 ```
@@ -84,8 +81,29 @@ where:
 
 To view more options that `VIBRANT` has, type `VIBRANT_run.py -h`.
 
+## Your turn!
 
-## Option 2: Running VIBRANT on Cyverse
+Now, run the example above using your assigned fasta sequence.
+
+## Output description:
+
+Let's take a look at some of the major output files that VIBRANT gives us, to try to understand what they mean.
+[I'll run this later and add a screenshot as well as some file descriptions.
+
+## Breakout Room Time! (30 minutes)
+
+We will now go into breakout groups to discuss. Here are some example guiding discussion topics:
+1.
+2.
+3.
+4.
+
+
+## Debriefing (30 minutes)
+
+
+
+#### Option 2: Running VIBRANT on Cyverse
 If for whatever reason you prefer to run the analysis using the cloud, Cyverse is a good option. The most updated version is 1.2.0, which is compared to the newest version 1.2.1. You can read about the difference between the two versions [here](https://github.com/AnantharamanLab/VIBRANT#updates-for-v121-mar-13-2020-). 
 
 1. Create a Cyverse Account
@@ -101,10 +119,10 @@ If for whatever reason you prefer to run the analysis using the cloud, Cyverse i
 11. Repeat step 6 to 10 for Scenario 2 and 3. Don't forget to rename the analysis to "NORBIS Tutorial Scenario 2" and "NORBIS Tutorial Scenario 3" instead.
 12. To view your results, on the left-hand side bar, click on the second icon "Data". Under the folder "Analysis" will be your result files. 
 
-## Debriefing
 
 ## Additional resources & Further Readings
 ### Other tools in virome research
+
 CheckV: [Paper](https://www.nature.com/articles/s41587-020-00774-7) and [Tool](https://bitbucket.org/berkeleylab/CheckV)
 
 VirSorter: [Paper](https://peerj.com/articles/985/) and [Tool](https://github.com/simroux/VirSorter)
@@ -117,5 +135,3 @@ https://www.nature.com/articles/s41467-021-23698-5
 
 https://www.sciencedirect.com/science/article/pii/S1931312821001487
 
-
-### Applications of VIBRANT 
