@@ -40,36 +40,26 @@ You can access it by
 
 For this tutorial, we will use a total of 3 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per grouup. Finally, we will regroup in the main virtual room to debrief. 
 
+In the folder `Datasets` of this github page, you will find 5 fasta files with the file extension `.fasta.`, `.faa`, `fna`. the README.txt file in the `datasets` folder describes what these datasets are. We will split the class into groups, and each group will run VIBRANT on one file. Then we will discuss and compare how these datasets differ. For the live-demonstration, I will show you how to run it on `Lactococcus_lactis.fasta` but please change the `input file` name for the file that you are assigned, as you follow along.
+
 ## Option 1: Running VIBRANT from command-line.
 ### Exercises and discussion questions
-*Commands*:
-```for file in /slowdata/Reads/LakeMendota2020/Viral-metagenomes/*; do /slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i $file -t 10 -folder ${file%.*}_vibrant_folder; done
-```
+
 ### Discussion questions & things to keep in mind as you go through the 3 scenarios
 
-#### Scenario 1
-*About this dataset*:
+#### Live demonstration
+For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome. The genome has XX mbp and contains XX contigs.
 
-*Commands*:
 ```
-/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario1.fasta -t 2 -folder scenario1_vibrant_folder
-```
-
-#### Scenario 2
-*About this dataset*:
-
-*Commands*:
-```
-/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario2.fasta -t 2 -folder scenario2_vibrant_folder
+/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i Lactococcus_lactis.fasta -t 2 -folder Lactococcus_lactis.fasta_vibrant_folder
 ```
 
-#### Scenario 3
-*About this dataset*:
+where:
+`-i` is the input file, a nucleotide or amino acid file in `fasta` format
+`-t` is the number of threads, this you can edit depending on your machine
+`-folder` is the name of the output folder where you want your results to be created.
 
-*Commands*:
-```
-/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i scenario3.fasta -t 2 -folder scenario3_vibrant_folder
-```
+To view more options that `VIBRANT` has, type `VIBRANT_run.py -h`.
 
 
 ## Option 2: Running VIBRANT on Cyverse
