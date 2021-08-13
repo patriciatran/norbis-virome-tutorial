@@ -93,14 +93,14 @@ Let's take a look at some of the major output files that VIBRANT gives us, to tr
 ## Breakout Room Time! (30 minutes)
 
 We will now go into breakout groups to discuss. Here are some example guiding discussion topics:
-1.
-2.
-3.
-4.
 
+1. How many sequences are circular, lytic, lysogenic, and combined phages?
+2. What is the distribution of genome quality?
+3. What are the 2 most prominent AMG categories in your example? Can you hypothesize why?
+
+Use the rest of the time in the breakout room to discuss phages and VIBRANT questions with your assigned instructor. Do you have any questions to bring up as a group after the breakout room?
 
 ## Debriefing (30 minutes)
-
 
 
 #### Option 2: Running VIBRANT on Cyverse
