@@ -92,7 +92,7 @@ Let's take a look at some of the major output files that VIBRANT gives us, to tr
 
 ## Breakout Room Time! (30 minutes)
 
-We will now go into breakout groups to discuss. Here are some example guiding discussion topics:
+We will now go into breakout groups to discuss. Please answer the following questions. Designate 1 participant per group (besides the instructor) to share your answers as part of the debrefing that will follow.
 
 1. How many sequences are circular, lytic, lysogenic, and combined phages?
 2. What is the distribution of genome quality?
