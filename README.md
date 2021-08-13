@@ -62,9 +62,7 @@ For the live-demonstration, I will show you how to run it on `Lactococcus_lactis
 
 Later in the defriefing section, each group will go through their output files and discuss them with one of the instructors . Then we will regroup and share our points as a class and answer any additional questions you may have.
 
-## Option 1: Running VIBRANT from command-line.
-
-### Live demonstration (30 minutes)
+## Live demonstration (30 minutes)
 For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome. The genome has XX mbp and contains XX contigs.
 
 ```
@@ -81,11 +79,11 @@ where:
 
 To view more options that `VIBRANT` has, type `VIBRANT_run.py -h`.
 
-## Your turn!
+### Your turn!
 
 Now, run the example above using your assigned fasta sequence.
 
-## Output description:
+### Output description:
 
 Let's take a look at some of the major output files that VIBRANT gives us, to try to understand what they mean.
 [I'll run this later and add a screenshot as well as some file descriptions.
@@ -101,9 +99,10 @@ We will now go into breakout groups to discuss. Please answer the following ques
 Use the rest of the time in the breakout room to discuss phages and VIBRANT questions with your assigned instructor. Do you have any questions to bring up as a group after the breakout room?
 
 ## Debriefing (30 minutes)
+We will now regroup in the main room.
 
-
-#### Option 2: Running VIBRANT on Cyverse
+## Other ways to run vibrant
+### Running VIBRANT on Cyverse
 If for whatever reason you prefer to run the analysis using the cloud, Cyverse is a good option. The most updated version is 1.2.0, which is compared to the newest version 1.2.1. You can read about the difference between the two versions [here](https://github.com/AnantharamanLab/VIBRANT#updates-for-v121-mar-13-2020-). 
 
 1. Create a Cyverse Account
