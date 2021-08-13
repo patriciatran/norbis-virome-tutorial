@@ -29,7 +29,7 @@ A basic knowledge of the command line will be beneficials, and knowledge of comm
 If you'd like to brush up on those skills, I recommand this free tutorial from [DataCarpentry: Introduction to the Command line for Genomics](https://datacarpentry.org/shell-genomics/) prior to the day of the workshop.
 
 ## Installation
-To follow along this tutorial, you will need to install [VIBRANT] `v.1.2.1` (https://github.com/AnantharamanLab/VIBRANT), which is freely available at the link here. Detailed instructions on installing VIBRANT are found on its own github page, posted [here](https://github.com/AnantharamanLab/VIBRANT#requirements-).
+To follow along this tutorial, you will need to install [VIBRANT v.1.2.1](https://github.com/AnantharamanLab/VIBRANT), which is freely available at the link here. Detailed instructions on installing VIBRANT are found on its own github page, posted [here](https://github.com/AnantharamanLab/VIBRANT#requirements-).
 
 The program VIBRANT has already been installed on the server for this summer school.
 You can access it by
