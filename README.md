@@ -109,7 +109,7 @@ We will now regroup in the main room.
 
 ## Other ways to run vibrant
 ### Running VIBRANT on Cyverse
-If for whatever reason you prefer to run the analysis using the cloud, Cyverse is a good option. The most updated version is 1.2.0, which is compared to the newest version 1.2.1. You can read about the difference between the two versions [here](https://github.com/AnantharamanLab/VIBRANT#updates-for-v121-mar-13-2020-). 
+If for whatever reason you prefer to run the analysis using the cloud, [Cyverse](https://cyverse.org/) is a good option. The most updated version is 1.2.0, which is compared to the newest version 1.2.1. You can read about the difference between the two versions [here](https://github.com/AnantharamanLab/VIBRANT#updates-for-v121-mar-13-2020-). 
 
 1. Create a Cyverse Account
 2. From the home page, under My Services, click "Launch" on the Discovery environment tab.
