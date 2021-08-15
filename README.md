@@ -69,7 +69,7 @@ For the live-demonstration, I will show you how to run it on `Lactococcus_lactis
 Later in the defriefing section, each group will go through their output files and discuss them with one of the instructors . Then we will regroup and share our points as a class and answer any additional questions you may have.
 
 ## Live demonstration (30 minutes)
-For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome. The genome has XX mbp and contains XX contigs.
+For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome.
 
 ```
 /opt/VIBRANT/VIBRANT_run.py -i Lactococcus_lactis.fasta -t 2 -folder Lactococcus_lactis.fasta_vibrant_folder
@@ -92,7 +92,7 @@ Now, run the example above using your assigned fasta sequence.
 ### Output description:
 
 Let's take a look at some of the major output files that VIBRANT gives us, to try to understand what they mean.
-[I'll run this later and add a screenshot as well as some file descriptions.
+The PDF name `VIBRANT file descriptions` in this GitHub Repository explains them, but I will go over them in class. 
 
 ## Breakout Room Time! (30 minutes)
 
