@@ -51,7 +51,7 @@ For this tutorial, we will use a total of 3 scenarios. First, I will walk you th
 
 ### File descriptions in the `Datasets` Folder:
 
-In the folder `Datasets` of this github page, you will find 5 fasta files with the file extension `.fasta.`, `.faa`, `fna`. the README.txt file in the `datasets` folder describes what these datasets are. 
+In the folder `Datasets` of this github page, you will find 5 fasta files with the file extension `.fasta`, `.faa`, `fna`. the README.txt file in the `datasets` folder describes what these datasets are. 
 
 :dna: Lactococcus lactis: Complete bacterial genome with 5 prophages
 
@@ -83,6 +83,10 @@ where:
 `-t` is the number of threads, this you can edit depending on your machine
 
 `-folder` is the name of the output folder where you want your results to be created.
+
+*HINT!* 
+there is also the option:
+`-f` for the format. the default is nucleotides. The options are `nucl` or `prot`
 
 To view more options that `VIBRANT` has, type `VIBRANT_run.py -h`.
 
