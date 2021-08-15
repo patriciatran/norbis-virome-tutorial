@@ -18,7 +18,7 @@ After completion of this virome workshop day the participants will:
 - Be able to discuss the use of bioinformatics tools for virome research, either in their field of study or generally in science.
 
 ## Before we start! ##
-During this interactive tutorial, please use these icons at the lower right portion of your Zoom screen in order to let me know whether things are going well, yes (green icon), no (red icon), notify me to slow down (grey icon) or speed up (blue icon). Additionally, please feel free to post your questions in the chat and one of my colleagues will be available to answer questions in the chat as well.
+During this interactive tutorial, please use these icons at the lower right portion of your Zoom screen in order to let me know whether things are going well, yes (green icon), no (red icon), notify me to slow down (grey icon) or speed up (blue icon). Additionally, please feel free to post your questions in the chat and we will address them as soon as we can.
 
 <img src="https://github.com/patriciatran/norbis-virome-tutorial/blob/main/ZoomIcons.png" width=30% height=30%>
 
