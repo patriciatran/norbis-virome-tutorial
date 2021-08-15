@@ -31,8 +31,9 @@ If you'd like to brush up on those skills, I recommand this free tutorial from [
 ## Installation
 To follow along this tutorial, you will need to install [VIBRANT v.1.2.1](https://github.com/AnantharamanLab/VIBRANT), which is freely available at the link here. Detailed instructions on installing VIBRANT are found on its own github page, posted [here](https://github.com/AnantharamanLab/VIBRANT#requirements-).
 
-The program VIBRANT has already been installed on the server for this summer school. Use X2GoClient to log into it. 
-You can access it by typing `/opt/VIBRANT/VIBRANT_run.py -h`
+The program VIBRANT has already been installed on the server for this summer school. Use [X2GoClient](https://wiki.x2go.org/doku.php/download:start) to log into it. 
+
+Once logged in, you can access it by typing `/opt/VIBRANT/VIBRANT_run.py -h`. 
 
 You will also want to download the files necessary for this tutorial.
 `cd` into your Desktop and Type 
