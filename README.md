@@ -55,7 +55,7 @@ In the folder `Datasets` of this github page, you will find 5 fasta files with t
 
 :dna: Lactococcus lactis: Complete bacterial genome with 5 prophages
 
-:dna: LBVG: Lake Biwa Viral Genomes, curated viruses from a metagenome
+:dna: LBVG: Lake Biwa Viral Genomes, curated viruses from a metagenome. From the paper by [Okazaki et al., 2019 Environmental Microbiology](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.14816)
 
 :dna: Microviridae: Example of running proteins, single genome
 
