@@ -66,7 +66,7 @@ Later in the defriefing section, each group will go through their output files a
 For the live demo, we will use `Lactococcus_lactis.fasta`, which is the genome of Lactococcus lactis. We will use VIBRANT to identify phages in this one genome. The genome has XX mbp and contains XX contigs.
 
 ```
-/slowdata/data4/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i Lactococcus_lactis.fasta -t 2 -folder Lactococcus_lactis.fasta_vibrant_folder
+/opt/VIBRANT/VIBRANT_v1.2.1/VIBRANT_run.py -i Lactococcus_lactis.fasta -t 2 -folder Lactococcus_lactis.fasta_vibrant_folder
 ```
 
 where:
