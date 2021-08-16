@@ -45,7 +45,7 @@ You will now have a folder named norbis-virome-tutorial which contains the folde
 
 ## File descriptions & Flow of the tutorial
 
-For this tutorial, we will use a total of 3 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per group. Finally, we will regroup in the main virtual room to debrief. 
+For this tutorial, we will use a total of 5 scenarios. First, I will walk you through how to use VIBRANT using the command line through a live coding session. Additionally, we will go over the general input and output files. We will then compare how the outputs differ in the 3 scenarios, and then discuss these through guided discussions in breakout groups of 7-8 students per group. Finally, we will regroup in the main virtual room to debrief. 
 
 
 
