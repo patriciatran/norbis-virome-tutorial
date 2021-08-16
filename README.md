@@ -35,6 +35,9 @@ The program VIBRANT has already been installed on the server for this summer sch
 
 Once logged in, you can access it by typing `/opt/VIBRANT/VIBRANT_run.py -h`. 
 
+**Troubleshooting**
+You might need to open the file viewe, navigate to `/opt/` and click on the VIBRANT folder, and change the permissions so that `studentuser` (you) have read and write permissions. Click apply on all subfolders. Additionally, you will need to change the file permissions of the `VIBRANT_run.py` and the Python scripts in the `Scripts` folder, so that you can run them as executable programs. Click on each `.py` script, go to File, then Permissions, and click the check box.
+
 You will also want to download the files necessary for this tutorial.
 `cd` into your Desktop and Type 
 
